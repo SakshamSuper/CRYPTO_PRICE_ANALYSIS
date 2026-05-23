@@ -68,31 +68,31 @@ The dataset contains historical Bitcoin monthly market data including:
 
 ## Bitcoin Monthly Trend
 
-![Trend](./images/bitcoin-trend.png)
+![Trend](./Images%20(Actual%20vs%20Predicted)/linear-reg.png)
 
 ---
 
 ## OHLC Correlation Heatmap
 
-![Heatmap](./images/heatmap.jpg)
+![Heatmap](./Images%20(Actual%20vs%20Predicted)/heatmap.jpg)
 
 ---
 
 ## Actual vs Predicted Bitcoin Prices
 
-![Prediction](./images/actual-vs-predicted.png)
+![Prediction](./Images%20(Actual%20vs%20Predicted)/actual-vs-predicted.png)
 
 ---
 
 ## Monthly Percentage Returns
 
-![Returns](./images/monthly-return.jpg)
+![Monthly Return](./Images%20(Actual%20vs%20Predicted)/monthly-return.jpg)
 
 ---
 
 ## Monthly Volatility
 
-![Volatility](./images/monthly-volatility.jpg)
+![Monthly Volatility](./Images%20(Actual%20vs%20Predicted)/monthly-volatility.jpg)
 
 ---
 
